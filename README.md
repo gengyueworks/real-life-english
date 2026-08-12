@@ -35,6 +35,12 @@
 | 问路 / 方向 Directions | [en/scenarios/directions.md](en/scenarios/directions.md) | [zh/scenarios/directions.md](zh/scenarios/directions.md) |
 | 购物 / 砍价 Shopping | [en/scenarios/shopping.md](en/scenarios/shopping.md) | [zh/scenarios/shopping.md](zh/scenarios/shopping.md) |
 | 天气 Weather | [en/scenarios/weather.md](en/scenarios/weather.md) | [zh/scenarios/weather.md](zh/scenarios/weather.md) |
+| 数字 Numbers | [en/scenarios/numbers.md](en/scenarios/numbers.md) | [zh/scenarios/numbers.md](zh/scenarios/numbers.md) |
+| 时间日期 Time & Date | [en/scenarios/time-date.md](en/scenarios/time-date.md) | [zh/scenarios/time-date.md](zh/scenarios/time-date.md) |
+| 颜色 Colors | [en/scenarios/colors.md](en/scenarios/colors.md) | [zh/scenarios/colors.md](zh/scenarios/colors.md) |
+| 电话网络 Phone & Internet | [en/scenarios/phone-internet.md](en/scenarios/phone-internet.md) | [zh/scenarios/phone-internet.md](zh/scenarios/phone-internet.md) |
+| 银行换钱 Bank & Money | [en/scenarios/bank-money.md](en/scenarios/bank-money.md) | [zh/scenarios/bank-money.md](zh/scenarios/bank-money.md) |
+| 酒店入住 Hotel | [en/scenarios/hotel.md](en/scenarios/hotel.md) | [zh/scenarios/hotel.md](zh/scenarios/hotel.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 

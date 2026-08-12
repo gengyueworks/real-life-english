@@ -27,6 +27,12 @@
 | 问路 / 方向 Directions | [scenarios/directions.md](scenarios/directions.md) |
 | 购物 / 砍价 Shopping | [scenarios/shopping.md](scenarios/shopping.md) |
 | 天气 Weather | [scenarios/weather.md](scenarios/weather.md) |
+| 数字 Numbers | [scenarios/numbers.md](scenarios/numbers.md) |
+| 时间日期 Time & Date | [scenarios/time-date.md](scenarios/time-date.md) |
+| 颜色 Colors | [scenarios/colors.md](scenarios/colors.md) |
+| 电话网络 Phone & Internet | [scenarios/phone-internet.md](scenarios/phone-internet.md) |
+| 银行换钱 Bank & Money | [scenarios/bank-money.md](scenarios/bank-money.md) |
+| 酒店入住 Hotel | [scenarios/hotel.md](scenarios/hotel.md) |
 
 ## 格式
 
