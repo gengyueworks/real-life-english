@@ -38,6 +38,12 @@
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
+## 专题备份 · Skill Backups
+
+除了场景词汇，这里也存档与本仓库主题相关的英语学习 skill 备份（含来源说明，可随时溯源）：
+
+- [Real-Work-English](Real-Work-English/) — 用真实工作材料定制职场英语训练包的开源 skill 备份（MIT），来源：开源仓库 [richfemale7/real-work-english](https://github.com/richfemale7/real-work-english)
+
 ## 设计原则
 
 1. **真实优先**：例句是在该场景里真的会说的，不写教科书式句子。

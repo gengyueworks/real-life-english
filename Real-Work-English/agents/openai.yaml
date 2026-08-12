@@ -1,0 +1,4 @@
+interface:
+  display_name: "真实工作英语资料包"
+  short_description: "基于真实职场资料定制八周英语表达与商务沟通学习训练包"
+  default_prompt: "使用 $real-work-english，根据我的真实工作资料逐步制作一套八周英语表达训练包。"
