@@ -41,6 +41,12 @@
 | 电话网络 Phone & Internet | [en/scenarios/phone-internet.md](en/scenarios/phone-internet.md) | [zh/scenarios/phone-internet.md](zh/scenarios/phone-internet.md) |
 | 银行换钱 Bank & Money | [en/scenarios/bank-money.md](en/scenarios/bank-money.md) | [zh/scenarios/bank-money.md](zh/scenarios/bank-money.md) |
 | 酒店入住 Hotel | [en/scenarios/hotel.md](en/scenarios/hotel.md) | [zh/scenarios/hotel.md](zh/scenarios/hotel.md) |
+| 社交寒暄 Greetings | [en/scenarios/greetings.md](en/scenarios/greetings.md) | [zh/scenarios/greetings.md](zh/scenarios/greetings.md) |
+| 食物 · 三餐 Food & Meals | [en/scenarios/food-meals.md](en/scenarios/food-meals.md) | [zh/scenarios/food-meals.md](zh/scenarios/food-meals.md) |
+| 饮料 · 咖啡茶 Drinks | [en/scenarios/drinks.md](en/scenarios/drinks.md) | [zh/scenarios/drinks.md](zh/scenarios/drinks.md) |
+| 衣服 · 穿戴 Clothing | [en/scenarios/clothing.md](en/scenarios/clothing.md) | [zh/scenarios/clothing.md](zh/scenarios/clothing.md) |
+| 邮局 · 快递 Post Office | [en/scenarios/post-office.md](en/scenarios/post-office.md) | [zh/scenarios/post-office.md](zh/scenarios/post-office.md) |
+| 理发 · 美容 Hair & Beauty | [en/scenarios/hair-salon.md](en/scenarios/hair-salon.md) | [zh/scenarios/hair-salon.md](zh/scenarios/hair-salon.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 

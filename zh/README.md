@@ -33,6 +33,12 @@
 | 电话网络 Phone & Internet | [scenarios/phone-internet.md](scenarios/phone-internet.md) |
 | 银行换钱 Bank & Money | [scenarios/bank-money.md](scenarios/bank-money.md) |
 | 酒店入住 Hotel | [scenarios/hotel.md](scenarios/hotel.md) |
+| 社交寒暄 Greetings | [scenarios/greetings.md](scenarios/greetings.md) |
+| 食物 · 三餐 Food & Meals | [scenarios/food-meals.md](scenarios/food-meals.md) |
+| 饮料 · 咖啡茶 Drinks | [scenarios/drinks.md](scenarios/drinks.md) |
+| 衣服 · 穿戴 Clothing | [scenarios/clothing.md](scenarios/clothing.md) |
+| 邮局 · 快递 Post Office | [scenarios/post-office.md](scenarios/post-office.md) |
+| 理发 · 美容 Hair & Beauty | [scenarios/hair-salon.md](scenarios/hair-salon.md) |
 
 ## 格式
 
