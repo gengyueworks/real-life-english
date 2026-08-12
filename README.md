@@ -22,6 +22,7 @@
 | 就医 Doctor & Hospital | [scenarios/hospital.md](scenarios/hospital.md) | 挂号、说症状、拿药 |
 | 超市 / 买菜 Supermarket | [scenarios/supermarket.md](scenarios/supermarket.md) | 推车、称重、结账、退货 |
 | 健身 Fitness & Gym | [scenarios/fitness.md](scenarios/fitness.md) | 训练动作、补给、和教练沟通（呼应已有的健身仓库） |
+| 手部动作 Hand Actions | [scenarios/hands.md](scenarios/hands.md) | 做饭、打扫、穿衣、打手势——手在干嘛都用得上（图标用 emoji，无需图片） |
 
 ## 设计原则
 
