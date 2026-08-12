@@ -58,6 +58,10 @@
 4. **图标列可选**：表格最左可加一列 emoji 当图标（GitHub 原生渲染，不依赖图片）；有清晰对应的词就加，没有就省略整列（如水果大多无对应 emoji）。
 5. **可扩展**：任何人都能提 PR 补词、补场景、改例句。
 
+## 当前阶段与未来规划
+
+目前是**纯文字简易版**（Markdown + emoji 图标，不依赖图片）。未来规划（视觉化生动版、网页 / App 形态）见 [ROADMAP.md](ROADMAP.md)。
+
 ## 怎么贡献
 
 见 [CONTRIBUTING.md](CONTRIBUTING.md)。复制 [_template.md](_template.md) 往里填就行，门槛很低。
