@@ -21,6 +21,12 @@
 | 就医 Doctor & Hospital | [scenarios/hospital.md](scenarios/hospital.md) |
 | 超市 / 买菜 Supermarket | [scenarios/supermarket.md](scenarios/supermarket.md) |
 | 健身 Fitness & Gym | [scenarios/fitness.md](scenarios/fitness.md) |
+| 身体部位 Body Parts | [scenarios/body-parts.md](scenarios/body-parts.md) |
+| 情绪 / 状态 Emotions | [scenarios/emotions.md](scenarios/emotions.md) |
+| 交通 / 出行 Transportation | [scenarios/transportation.md](scenarios/transportation.md) |
+| 问路 / 方向 Directions | [scenarios/directions.md](scenarios/directions.md) |
+| 购物 / 砍价 Shopping | [scenarios/shopping.md](scenarios/shopping.md) |
+| 天气 Weather | [scenarios/weather.md](scenarios/weather.md) |
 
 ## 格式
 

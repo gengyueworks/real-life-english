@@ -29,6 +29,12 @@
 | 就医 Doctor & Hospital | [en/scenarios/hospital.md](en/scenarios/hospital.md) | [zh/scenarios/hospital.md](zh/scenarios/hospital.md) |
 | 超市 / 买菜 Supermarket | [en/scenarios/supermarket.md](en/scenarios/supermarket.md) | [zh/scenarios/supermarket.md](zh/scenarios/supermarket.md) |
 | 健身 Fitness & Gym | [en/scenarios/fitness.md](en/scenarios/fitness.md) | [zh/scenarios/fitness.md](zh/scenarios/fitness.md) |
+| 身体部位 Body Parts | [en/scenarios/body-parts.md](en/scenarios/body-parts.md) | [zh/scenarios/body-parts.md](zh/scenarios/body-parts.md) |
+| 情绪 / 状态 Emotions | [en/scenarios/emotions.md](en/scenarios/emotions.md) | [zh/scenarios/emotions.md](zh/scenarios/emotions.md) |
+| 交通 / 出行 Transportation | [en/scenarios/transportation.md](en/scenarios/transportation.md) | [zh/scenarios/transportation.md](zh/scenarios/transportation.md) |
+| 问路 / 方向 Directions | [en/scenarios/directions.md](en/scenarios/directions.md) | [zh/scenarios/directions.md](zh/scenarios/directions.md) |
+| 购物 / 砍价 Shopping | [en/scenarios/shopping.md](en/scenarios/shopping.md) | [zh/scenarios/shopping.md](zh/scenarios/shopping.md) |
+| 天气 Weather | [en/scenarios/weather.md](en/scenarios/weather.md) | [zh/scenarios/weather.md](zh/scenarios/weather.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
