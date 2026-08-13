@@ -59,6 +59,10 @@
 | 洗衣 Laundry | [en/scenarios/laundry.md](en/scenarios/laundry.md) | [zh/scenarios/laundry.md](zh/scenarios/laundry.md) |
 | 拍照 Photography | [en/scenarios/photography.md](en/scenarios/photography.md) | [zh/scenarios/photography.md](zh/scenarios/photography.md) |
 | 节日 · 习俗 Holidays | [en/scenarios/holidays.md](en/scenarios/holidays.md) | [zh/scenarios/holidays.md](zh/scenarios/holidays.md) |
+| 休闲 · 娱乐 Leisure | [en/scenarios/leisure.md](en/scenarios/leisure.md) | [zh/scenarios/leisure.md](zh/scenarios/leisure.md) |
+| 图书馆 Library | [en/scenarios/library.md](en/scenarios/library.md) | [zh/scenarios/library.md](zh/scenarios/library.md) |
+| 约会 · 社交 Dating | [en/scenarios/dating.md](en/scenarios/dating.md) | [zh/scenarios/dating.md](zh/scenarios/dating.md) |
+| 礼物 · 赠答 Gifts | [en/scenarios/gifts.md](en/scenarios/gifts.md) | [zh/scenarios/gifts.md](zh/scenarios/gifts.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 

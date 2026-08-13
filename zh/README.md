@@ -51,6 +51,10 @@
 | 洗衣 Laundry | [scenarios/laundry.md](scenarios/laundry.md) |
 | 拍照 Photography | [scenarios/photography.md](scenarios/photography.md) |
 | 节日 · 习俗 Holidays | [scenarios/holidays.md](scenarios/holidays.md) |
+| 休闲 · 娱乐 Leisure | [scenarios/leisure.md](scenarios/leisure.md) |
+| 图书馆 Library | [scenarios/library.md](scenarios/library.md) |
+| 约会 · 社交 Dating | [scenarios/dating.md](scenarios/dating.md) |
+| 礼物 · 赠答 Gifts | [scenarios/gifts.md](scenarios/gifts.md) |
 
 ## 格式
 
