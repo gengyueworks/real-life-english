@@ -53,6 +53,12 @@
 | 做饭 Cooking | [en/scenarios/cooking.md](en/scenarios/cooking.md) | [zh/scenarios/cooking.md](zh/scenarios/cooking.md) |
 | 药店 · 常用药 Pharmacy | [en/scenarios/pharmacy.md](en/scenarios/pharmacy.md) | [zh/scenarios/pharmacy.md](zh/scenarios/pharmacy.md) |
 | 职场办公 Workplace | [en/scenarios/workplace.md](en/scenarios/workplace.md) | [zh/scenarios/workplace.md](zh/scenarios/workplace.md) |
+| 安全求助 Emergency | [en/scenarios/emergency-safety.md](en/scenarios/emergency-safety.md) | [zh/scenarios/emergency-safety.md](zh/scenarios/emergency-safety.md) |
+| 租房 Renting | [en/scenarios/renting.md](en/scenarios/renting.md) | [zh/scenarios/renting.md](zh/scenarios/renting.md) |
+| 学校 · 教育 School | [en/scenarios/school.md](en/scenarios/school.md) | [zh/scenarios/school.md](zh/scenarios/school.md) |
+| 洗衣 Laundry | [en/scenarios/laundry.md](en/scenarios/laundry.md) | [zh/scenarios/laundry.md](zh/scenarios/laundry.md) |
+| 拍照 Photography | [en/scenarios/photography.md](en/scenarios/photography.md) | [zh/scenarios/photography.md](zh/scenarios/photography.md) |
+| 节日 · 习俗 Holidays | [en/scenarios/holidays.md](en/scenarios/holidays.md) | [zh/scenarios/holidays.md](zh/scenarios/holidays.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 

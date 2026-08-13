@@ -45,6 +45,12 @@
 | 做饭 Cooking | [scenarios/cooking.md](scenarios/cooking.md) |
 | 药店 · 常用药 Pharmacy | [scenarios/pharmacy.md](scenarios/pharmacy.md) |
 | 职场办公 Workplace | [scenarios/workplace.md](scenarios/workplace.md) |
+| 安全求助 Emergency | [scenarios/emergency-safety.md](scenarios/emergency-safety.md) |
+| 租房 Renting | [scenarios/renting.md](scenarios/renting.md) |
+| 学校 · 教育 School | [scenarios/school.md](scenarios/school.md) |
+| 洗衣 Laundry | [scenarios/laundry.md](scenarios/laundry.md) |
+| 拍照 Photography | [scenarios/photography.md](scenarios/photography.md) |
+| 节日 · 习俗 Holidays | [scenarios/holidays.md](scenarios/holidays.md) |
 
 ## 格式
 
