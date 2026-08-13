@@ -39,6 +39,12 @@
 | 衣服 · 穿戴 Clothing | [scenarios/clothing.md](scenarios/clothing.md) |
 | 邮局 · 快递 Post Office | [scenarios/post-office.md](scenarios/post-office.md) |
 | 理发 · 美容 Hair & Beauty | [scenarios/hair-salon.md](scenarios/hair-salon.md) |
+| 常用动词 Common Verbs | [scenarios/common-verbs.md](scenarios/common-verbs.md) |
+| 家庭称谓 Family | [scenarios/family.md](scenarios/family.md) |
+| 宠物 Pets | [scenarios/pets.md](scenarios/pets.md) |
+| 做饭 Cooking | [scenarios/cooking.md](scenarios/cooking.md) |
+| 药店 · 常用药 Pharmacy | [scenarios/pharmacy.md](scenarios/pharmacy.md) |
+| 职场办公 Workplace | [scenarios/workplace.md](scenarios/workplace.md) |
 
 ## 格式
 

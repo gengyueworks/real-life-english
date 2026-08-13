@@ -47,6 +47,12 @@
 | 衣服 · 穿戴 Clothing | [en/scenarios/clothing.md](en/scenarios/clothing.md) | [zh/scenarios/clothing.md](zh/scenarios/clothing.md) |
 | 邮局 · 快递 Post Office | [en/scenarios/post-office.md](en/scenarios/post-office.md) | [zh/scenarios/post-office.md](zh/scenarios/post-office.md) |
 | 理发 · 美容 Hair & Beauty | [en/scenarios/hair-salon.md](en/scenarios/hair-salon.md) | [zh/scenarios/hair-salon.md](zh/scenarios/hair-salon.md) |
+| 常用动词 Common Verbs | [en/scenarios/common-verbs.md](en/scenarios/common-verbs.md) | [zh/scenarios/common-verbs.md](zh/scenarios/common-verbs.md) |
+| 家庭称谓 Family | [en/scenarios/family.md](en/scenarios/family.md) | [zh/scenarios/family.md](zh/scenarios/family.md) |
+| 宠物 Pets | [en/scenarios/pets.md](en/scenarios/pets.md) | [zh/scenarios/pets.md](zh/scenarios/pets.md) |
+| 做饭 Cooking | [en/scenarios/cooking.md](en/scenarios/cooking.md) | [zh/scenarios/cooking.md](zh/scenarios/cooking.md) |
+| 药店 · 常用药 Pharmacy | [en/scenarios/pharmacy.md](en/scenarios/pharmacy.md) | [zh/scenarios/pharmacy.md](zh/scenarios/pharmacy.md) |
+| 职场办公 Workplace | [en/scenarios/workplace.md](en/scenarios/workplace.md) | [zh/scenarios/workplace.md](zh/scenarios/workplace.md) |
 
 > 想加场景？两边各建一个同名文件，保持列顺序相反即可。详见 [CONTRIBUTING.md](CONTRIBUTING.md)。
 
